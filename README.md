@@ -1,0 +1,5 @@
+1、重新用模块组织了项目结构
+2、common为interfaces
+3、edit_jpa_impl和edit_database_impl为二种实现
+4、entity_reposity 为各种entity的仓库
+5、edit_server提供rest接口。
